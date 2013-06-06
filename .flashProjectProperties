@@ -1,0 +1,26 @@
+<projectDescription>
+  <id>1259689078544</id>
+  <name>FireAway</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/Markus/AppData/Local/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/Markus/AppData/Local/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///Z|/Skola/MumA - Projekt/FireAway/actions/FireAway.fla</defaultApp>
+  <rootURI>file:///Z|/Skola/MumA - Projekt/FireAway/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="Projectile.as">file:///Z|/Skola/MumA - Projekt/FireAway/actions/Projectile.as</uri>
+    <uri label="HpShieldTiles.as">file:///Z|/Skola/MumA - Projekt/FireAway/actions/HpShieldTiles.as</uri>
+    <uri label="Wall_hitBox.as">file:///Z|/Skola/MumA - Projekt/FireAway/actions/Wall_hitBox.as</uri>
+    <uri label="HpShield.as">file:///Z|/Skola/MumA - Projekt/FireAway/actions/HpShield.as</uri>
+    <uri label="Wall.as">file:///Z|/Skola/MumA - Projekt/FireAway/actions/Wall.as</uri>
+    <uri label="FireAway.as">file:///Z|/Skola/MumA - Projekt/FireAway/actions/FireAway.as</uri>
+    <uri label="Ship.as">file:///Z|/Skola/MumA - Projekt/FireAway/actions/Ship.as</uri>
+    <uri label="FireAway.fla">file:///Z|/Skola/MumA - Projekt/FireAway/FireAway.fla</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
